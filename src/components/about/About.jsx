@@ -31,8 +31,8 @@ const About = () => {
 
               <article className='about__card'>
                   <BsBookmarkStar className='about__icon'/>
-                  <h5>Current GPA</h5>
-                  <small>8.3</small>
+                  <h5>Current CGPA</h5>
+                  <small>8.38</small>
               </article>
 
               <article className='about__card'>
