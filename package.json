@@ -1,15 +1,6 @@
 {
-<<<<<<< HEAD
-  "homepage": "https://github.com/shyam343/casmy-profile",
-  "name": "casmy-profile",
-=======
-<<<<<<< HEAD
-  "homepage": "https://your-custom-domain-or-netlify-subdomain.com",
-=======
   "homepage": "https://shyam343.github.io/my-portfolio",
->>>>>>> da6b31ce1fa71c121dc86ca907b509396074c556
   "name": "my-portfolio-react",
->>>>>>> origin/main
   "version": "0.1.0",
   "private": true,
   "dependencies": {
