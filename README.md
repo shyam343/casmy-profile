@@ -87,5 +87,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Fourt Page or last Of The Web-Site
 ![4th pg](https://github.com/shyam343/my-profile/assets/84222697/10c6199f-0560-41e2-822d-ca1323d7aba2)
 
-## Hosting Page:- [https://shyam343.github.io/my-profile/ --->](https://stellular-dasik-e426a8.netlify.app)
+## Hosting Page:- [https://shyam343.github.io/my-profile/](https://stellular-dasik-e426a8.netlify.app)
 
