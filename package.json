@@ -1,20 +1,6 @@
 {
-<<<<<<< HEAD
   "homepage": "https://shyam343.github.io/my-portfolio",
   "name": "my-portfolio-react",
-=======
-<<<<<<< HEAD
-  "homepage": "https://github.com/shyam343/my-portfolio",
-  "name": "my-portfolio",
-=======
-<<<<<<< HEAD
-  "homepage": "https://your-custom-domain-or-netlify-subdomain.com",
-=======
-  "homepage": "https://shyam343.github.io/my-portfolio",
->>>>>>> da6b31ce1fa71c121dc86ca907b509396074c556
-  "name": "my-portfolio",
->>>>>>> origin/main
->>>>>>> 8e8cd1d1ab23f7eba4751aabd1abfd4e164c3065
   "version": "0.1.0",
   "private": true,
   "dependencies": {
