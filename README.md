@@ -1,5 +1,5 @@
-<!--- # CodeSoft React Internship Project
- ![intern-offer-letter](https://github.com/shyam343/my-profile/assets/84222697/07437d01-3e77-49eb-8f07-2a67e2b9db51) --->
+# CodeSoft React Internship Project
+[intern-offer-letter](https://github.com/shyam343/my-profile/assets/84222697/07437d01-3e77-49eb-8f07-2a67e2b9db51) --->
 ## My Profile
 ## Getting Started with Create React App
 
@@ -87,5 +87,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Fourt Page or last Of The Web-Site
 ![4th pg](https://github.com/shyam343/my-profile/assets/84222697/10c6199f-0560-41e2-822d-ca1323d7aba2)
 
-## Hosting Page:- https://shyam343.github.io/my-profile/ --->
+## Hosting Page:- [https://shyam343.github.io/my-profile/ --->](https://stellular-dasik-e426a8.netlify.app)
 
